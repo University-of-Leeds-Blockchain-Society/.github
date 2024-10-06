@@ -3,13 +3,11 @@ Welcome to the Blockchain Society! We are a community dedicated to exploring and
 
 # Table of Contents
 - [About Us](#About-us)
-- Goals
-- Projects
-- Getting Started
-- Directory Structure
-- Contributing
-- License
-- Contact
+- [Goals](#Goals)
+- [Projects](#Projects)
+- [Workships](#Workshops)
+- [Events](#Events)
+- [Contact](#Contact)
 
 # About Us
 The Blockchain Society is a community-driven organization based at the University of Leeds. Our mission is to delve deep into blockchain technology, its underlying principles, and its real-world applications. We organize workshops, hackathons, and seminars to foster a collaborative environment where members can share knowledge and work on innovative projects.
@@ -28,6 +26,8 @@ We encourage members to engage in a variety of projects that span different aspe
 
 # Workshops
 We will be hosting workshops that explores the financial side as well as the technical technology side.
+### Workshop 1: Bitcoin implementation from scratch
+Workshop will guide members while we follow along Andrej Karpathy's [blog](https://github.com/karpathy/cryptos/) in implementing Bitcoin from scratch. 
 
 # Events
 - [Encode ETH Hackathon](https://www.encode.club/encodelondon-24)
