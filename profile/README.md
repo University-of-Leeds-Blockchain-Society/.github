@@ -5,7 +5,7 @@ Welcome to the Blockchain Society! We are a community dedicated to exploring and
 - [About Us](#About-us)
 - [Goals](#Goals)
 - [Projects](#Projects)
-- [Workships](#Workshops)
+- [Workshops](#Workshops)
 - [Events](#Events)
 - [Contact](#Contact)
 
