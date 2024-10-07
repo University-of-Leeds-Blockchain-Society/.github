@@ -9,6 +9,9 @@ Welcome to the Blockchain Society! We are a community dedicated to exploring and
 - [Events](#Events)
 - [Contact](#Contact)
 
+# Upcoming Event: [London Encode Club Hackathon](https://www.encode.club/encodelondon-24)
+<img src="./upcoming-event1.png">
+
 # About Us
 The Blockchain Society is a community-driven organization based at the University of Leeds. Our mission is to delve deep into blockchain technology, its underlying principles, and its real-world applications. We organize workshops, hackathons, and seminars to foster a collaborative environment where members can share knowledge and work on innovative projects.
 
